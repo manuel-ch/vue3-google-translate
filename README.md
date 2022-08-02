@@ -1,5 +1,5 @@
-<h1 align="center">v-google-translate</h1>
-<p align="center">google translate for Vue2.x.</p>
+<h1 align="center">vue3-google-translate</h1>
+<p align="center">google translate for Vue3.</p>
 <div align="center">
 
 [![NPM version](https://img.shields.io/npm/v/v-google-translate.svg)](https://npmjs.org/package/v-google-translate)
@@ -20,7 +20,7 @@
 
 ### Problem
 
-This package was heavily inspired by [vue-google-translate](https://github.com/lewis-kori/vue-google-translate).
+This package is a fork of i7eo/v-google-translate.
 
 This package enables localization of web apps made with vue by use of google translate.
 As your website and app grows, you may find a need to expand to other markets outside your home country.
